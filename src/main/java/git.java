@@ -6,5 +6,6 @@ public class git {
         System.out.println("原始代码上第三次修改");
         System.out.println("这是push test");
         System.out.println("11111111111111111");
+        System.out.println("这是pull test");
     }
 }
